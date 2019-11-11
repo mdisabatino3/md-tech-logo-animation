@@ -1,0 +1,48 @@
+body {
+  font-family: sans-serif;
+  background-color: #262626;
+}
+
+.polygon1 {
+  position: relative;
+  left: 80px;
+}
+
+.polygon2 {
+  position: relative;
+  left: -12px;
+  top: 49.3px;
+}
+
+.polygon3 {
+  position: relative;
+  left: -277px;
+  top: 100px;
+}
+
+.logotext {
+  position: relative;
+  left: 98px;
+  top: -76px;
+}
+
+.logo {
+  position: relative;
+  left: 100px;
+  top: 100px;
+}
+
+.poly1path {
+  /* fill: #31e89f; */
+  /* opacity: 0.5; */
+}
+
+.poly2path {
+  /* fill: #31c6e8; */
+  /* opacity: 0.5; */
+}
+
+.poly3path {
+  /* fill: #31e8e8; */
+  opacity: 0.5;
+}
